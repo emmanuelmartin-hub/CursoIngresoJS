@@ -25,10 +25,4 @@ function mostrarAumento()
 
 
 
-
-	
-
-    
-
-
 }
